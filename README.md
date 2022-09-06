@@ -11,7 +11,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-# Trabalho_TEP
+# Visão Geral:
 Implementação dos tipo opacos de dados t_racional e t_matrizDouble na linguagem 'C', fazendo manipulação, principalmente, de ponteiros, tanto de 
 tipos de dados, quanto de funções.
 
